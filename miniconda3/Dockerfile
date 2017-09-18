@@ -1,1 +1,3 @@
 FROM debian
+LABEL maintainer=alanbuckeridge
+ARG DEBIAN_FRONTEND=noninteractive
